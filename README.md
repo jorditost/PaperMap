@@ -15,9 +15,8 @@ Observing how people interact with traditional paper maps (e.g. gestures, shape 
 
 ### Prototype
 
-In this example, by folding and unfolding the map, you can control the zoom of a digital replica of it. It is still very simple but should work as a proof of concept. 
-
-It uses Arduino and the [Unfolding](http://unfoldingmaps.org/) library for Processing.
+In this example, by folding and unfolding the map, you can control the zoom of a digital replica of it. 
+It uses capacitive tape on the paper map, an Arduino and the [Unfolding](http://unfoldingmaps.org/) library for Processing. It is still very simple but should work as a proof of concept.
 
 ![](PaperMap/images/papermap_setup.png)
 ![](PaperMap/images/papermap_arduino.png)
