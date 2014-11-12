@@ -19,5 +19,5 @@ In this example, by folding and unfolding the map, you can control the zoom of a
 
 It uses Arduino and the [Unfolding](http://unfoldingmaps.org/) library for Processing.
 
-![](PaperMap/images/papermap_setup.jpg)
-![](PaperMap/images/papermap_arduino.jpg)
+![](PaperMap/images/papermap_setup.png)
+![](PaperMap/images/papermap_arduino.png)
